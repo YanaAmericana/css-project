@@ -1,0 +1,217 @@
+@charset "UTF-8";
+
+body {
+	background-color: #c2c5d6;
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	color:#444;
+}
+
+#body-roomservice {
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	background-image: url(../images/table-setting_485913447.jpeg);
+	background-repeat: no-repeat;
+	background-color: #FFF;
+	height: 1275px;
+}
+
+#main-container {
+	width:960px;
+	height:2125px;
+	margin: 0px auto;
+	background-color: #fff;
+	-moz-box-shadow: 5px 5px 5px #777;
+	-webkit-box-shadow: 5px 5px 5px #777;
+	box-shadow: 5px 5px 5px  #777;
+}
+
+#main-container-meetings {
+	width:960px;
+	height:1435px;
+	margin: 0px auto;
+	background-color: #fff;
+	-moz-box-shadow: 5px 5px 5px #777;
+	-webkit-box-shadow: 5px 5px 5px #777;
+	box-shadow: 5px 5px 5px #777;
+}
+
+#main-container-news {
+	width:960px;
+	height:1975px;
+	margin: 0px auto;
+	background-color: #fff;
+	-moz-box-shadow: 5px 5px 5px #777;
+	-webkit-box-shadow: 5px 5px 5px #777;
+	box-shadow: 5px 5px 5px #777;
+}
+
+#main-container-specials {
+	width:960px;
+	height:1915px;
+	margin: 0px auto;
+	background-color: #fff;
+	-moz-box-shadow: 5px 5px 5px #777;
+	-webkit-box-shadow: 5px 5px 5px #777;
+	box-shadow: 5px 5px 5px #777;
+}
+
+#main-container-contact {
+	width:960px;
+	height:1015px;
+	margin: 0px auto;
+	background-color: #fff;
+	-moz-box-shadow: 5px 5px 5px #777;
+	-webkit-box-shadow: 5px 5px 5px #777;
+	box-shadow: 5px 5px 5px #777;
+}
+
+#main-container-reservations {
+	width:960px;
+	height:930px;
+	margin: 0px auto;
+	background-color: #fff;
+	-moz-box-shadow: 5px 5px 5px #777;
+	-webkit-box-shadow: 5px 5px 5px #777;
+	box-shadow: 5px 5px 5px #777;
+}
+
+#main-container-roomservice {
+	width:960px;
+	height:1175px;
+	margin:0px auto;
+	background-color: #fff;
+	-moz-box-shadow: 5px 5px 5px #777;
+	-webkit-box-shadow: 5px 5px 5px #777;
+	box-shadow: 5px 5px 5px #777;
+	position:relative;
+	top:100px;
+}
+
+nav {
+	text-align: center;
+	padding:10px;
+}
+
+nav a{
+	text-decoration: none;
+	color: #602E8B;
+	margin: 0px 20px;
+}
+
+nav a:hover {
+	text-decoration: underline;
+}
+
+#call-us{
+	text-align: center;
+	padding: 30px 30px 0px 30px;
+}
+#call-us a{
+	text-decoration: none;
+	color:#959bd1;
+}
+
+#call-us a:hover{
+	text-decoration: underline;
+}
+
+.hotel-gallery {
+	width: 850px;
+	margin: 0px auto;
+}
+
+.paragraph {
+	width:500px;
+	float:left;
+}
+
+.image img {
+	float: right;
+	padding-left: 50px;
+}
+
+.hotel-gallery h4,
+.general-info {
+	clear: both;
+	padding-top:30px;
+}
+
+.hotel-gallery .bold,
+.general-info .bold{
+	font-weight: 800;
+}
+
+.general-info {
+	width: 850px;
+	margin: 0px auto;
+	clear:both;
+	padding-top:20px;
+	
+}
+.general-info li {
+	list-style: none;
+	font-size: 1.2em;
+}
+
+.general-info h2{
+	color:#602E8B;
+}
+
+
+.form {
+	border: none;
+	width: 400px;
+	margin-bottom: 30px;
+}
+
+#legend {
+	border: none;
+	padding: 5px 10px 5px 10px;
+	margin-left: 20px;
+	text-align: center;
+	color:#959bd1;
+	
+}
+
+.field {
+	border: 1px #bdbdbd solid;
+	padding: 5px;
+	margin: 5px 0px 5px 5px;
+}
+
+#email {
+	padding-left: 35px;
+}
+
+.btn {
+	background-color: lightgray;
+	border: 1px solid #bdbdbd;
+	border-radius: 5px;
+	margin-top:10px;
+}
+#restaurant-preference{
+	width: 200px;
+}
+
+.paragraph a {
+	color:#959bd1;
+	text-decoration: none;
+}
+
+.paragraph a:hover {
+	text-decoration: underline;
+}
+
+#room-service-padding {
+	padding-bottom: 20px;
+}
+
+footer {
+	background-color: #602e8b;
+	color:white;
+	padding: 1px;
+	clear:both;
+	box-shadow: 0px 10px  5px #777;
+}
+		
